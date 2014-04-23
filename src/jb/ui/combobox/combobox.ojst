@@ -1,0 +1,12 @@
+<% @require ojster.Template %>
+
+<% @template jb.ui.ComboboxTemplate %>
+<% @inherits ojster.Template %>
+
+<% @block main { %>
+    <div class="<% @css %>">
+      <input type="text" class="<% @css +input %>" placeholder="<%= d.caption %>">
+      <span class="<% @css +arrow %>">▼</span>
+    </div>
+<% @block main } %>
+

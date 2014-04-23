@@ -1,0 +1,8 @@
+.goog-combobox .goog-menu {
+  border: solid 1px #ccc;
+  max-width: 200px;
+}
+
+.goog-menuitem-highlight {
+  background: #ccc;
+}

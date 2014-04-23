@@ -1,0 +1,17 @@
+.jb-popup {
+  background: #fff;
+  border: solid 1px #ccc;
+  left: 50%;
+  min-width: 200px;
+  min-height: 1em;
+  position: absolute;
+  top: 50%;
+}
+
+.jb-popuplist-item-highlighted {
+  background: #ccc;
+}
+
+.jb-popuplist-item-selected {
+  font-weight: bold;
+}

@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "checkRegExp": "ERROR",
+    "checkTypes": "ERROR",
+    "checkVars": "ERROR",
+    "deprecated": "ERROR",
+    "fileoverviewTags": "ERROR",
+    "invalidCasts": "ERROR",
+    "missingProperties": "ERROR",
+    "nonStandardJsDocs": "ERROR",
+    "undefinedVars": "WARNING"
+  },
+  "id": "JBComboBox",
+  "inputs": "src/main.js",
+  "level": "VERBOSE",
+  "mode": "ADVANCED",
+  "output-charset": "utf-8",
+  "output-file": "public/js/main.js",
+  "paths": ["src", "lib/ojster"]
+}
